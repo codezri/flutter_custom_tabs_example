@@ -42,7 +42,7 @@ class Home extends StatelessWidget {
   void _launchURL(BuildContext context) async {
     final theme = Theme.of(context);
     try {
-      launch('https://h40xbnihul.execute-api.us-east-2.amazonaws.com/default/testHeaders',
+      launch('https://github.com',
         // Android Custom Tabs config
         customTabsOption: CustomTabsOption(
           showPageTitle: true,
