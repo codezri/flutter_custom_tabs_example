@@ -1,4 +1,4 @@
-# customtabs
+# Flutter Custom Tabs example
 
 How to launch Chrome Custom Tabs in Flutter
 
